@@ -6,6 +6,7 @@ Your assignment is to modify starter code to create an application called Note T
 
 The application’s front end has already been created. It's your job to build the back end, connect the two, and then deploy the entire application to Heroku.
 
+![Note Taker](https://user-images.githubusercontent.com/65749636/108461444-94c68680-722f-11eb-8114-9b0dc4d7801a.gif)
 
 ## User Story
 
